@@ -15,7 +15,7 @@ Sample retail dataset with Sales fact table and Customer, Product, Date, Ship Mo
 
 ## Tools
 Power BI → Visualization
-DAX → Calculations (YTD, MTD, YoY, etc.)
+DAX → Calculations (YTD, MTD, YoY)
 
 ## Key Insights
 West region leads in sales
